@@ -25,17 +25,6 @@ Currently focused on improving my DSA + building interview-ready projects.
 An AI-powered code review tool that provides real-time feedback on code using Google’s Gemini API.  
 Supports multiple programming languages and highlights syntax, logic, and documentation issues instantly.
 
-**Key Features**
-- Monaco Editor with language selection  
-- Gemini AI-powered smart code reviews  
-- Real-time syntax & logic feedback  
-- Clean, responsive UI with Tailwind CSS  
-
-**Tech Stack**
-- ReactJS, Tailwind CSS, Vite  
-- Monaco Editor  
-- Gemini API  
-- Deployed on Render
 
 ---
 
@@ -43,19 +32,6 @@ Supports multiple programming languages and highlights syntax, logic, and docume
 A full-stack Airbnb-inspired property rental application built with the MERN stack.  
 Users can list properties, upload images, browse stays, and book accommodations using a date picker.
 
-**Key Features**
-- JWT-based Authentication (Login / Register)  
-- Add, Edit, and Delete Property Listings  
-- Booking System with Calendar Date Picker  
-- Image Uploads via Cloudinary  
-- Fully Responsive UI  
-
-**Tech Stack**
-- ReactJS, Tailwind CSS, React Router  
-- Node.js, Express.js  
-- MongoDB (Mongoose)  
-- Cloudinary  
-- Deployed on Render
 
 ---
 
