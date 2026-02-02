@@ -2,7 +2,7 @@
   
 I'm Anjali.
 
-I'm a software engineer & CS student who enjoys building things that actually make sense — clean UI, solid logic, and real-world usefulness.
+I'm a software engineer & CS student who enjoys building things — clean UI, solid logic, and real-world usefulness.
 
 I mostly work on full-stack web apps with **GenAI integrations**.  
 Currently focused on improving my DSA + building interview-ready projects.
